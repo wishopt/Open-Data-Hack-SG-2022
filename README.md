@@ -1,2 +1,2 @@
-# Open-Data-Hack-SG-2022
-Project files of the Open Data Hack St.Gallen 2022 hackathon.
+# Puls der Stadt
+Project files of the [Open Data Hack St.Gallen 2022](https://opendatahack-stgallen.devpost.com/) hackathon.
